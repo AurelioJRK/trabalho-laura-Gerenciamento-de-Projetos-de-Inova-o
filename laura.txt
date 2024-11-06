@@ -1,0 +1,74 @@
+1. INICIAÇÃO
+
+
+Definição do escopo: Determinar os principais objetivos do projeto, como as funcionalidades do sistema.
+
+Identificação das partes interessadas: Identificar stakeholders, como a equipe do hotel, futuros usuários e a equipe técnica, para entender as expectativas e requisitos.
+
+Análise de viabilidade: Realizar uma análise para avaliar a viabilidade econômica do projeto.
+
+Formalização do projeto: Criar o termo de abertura do projeto.
+
+
+2. Planejamento
+
+Definir o Escopo Detalhado: Elaborar o escopo completo do sistema com todas as funcionalidades específicas (buscar quartos, verificar disponibilidade, realizar reserva, pagamento, check in e check out no sistema).
+
+Elaborar o Cronograma: Estabelecer um cronograma para definir datas e metas a fim de melhor coordenar o cumprimento do projeto.
+
+Estabelecimento do Orçamento e Recursos: Definir a quantidade de recursos disponíveis e aloca-los
+
+Plano de Gerenciamento de Riscos: Identificar possíveis riscos (falhas de segurança e atrasos no sistema).
+
+Plano de Comunicação e Engajamento: Criar um plano de comunicação para se certificar que todos os stakeholders estejam informados sobre o andamento do projeto e o que foi realizado até então.
+
+Estrutura Analítica do Projeto (EAP): Criar uma EAP para organizar as etapas de desenvolvimento e aplicação do projeto
+
+Acompanhar o desenvolvimento do projeto:
+ Observar o tempo que ele está sendo processado e se irá cumprir o prazo de entrega estabelecido; acompanhar o custo, desta forma monitorando se o projeto irá ultrapassar o teto de gastos estabelecidos, pois quanto menor o custo melhor para a empresa.
+
+Monitoramento e possíveis riscos:
+Observar ou prever riscos de pagamentos, verificar se as transações estão sendo feitas corretamente e sem qualquer tipo de erro, pois por ser online além de facilitar a transação podem haver alguns defeitos como uma falta de compatibilidade em algumas máquinas; para a implementação  você pode estabelecer etapas ou sessões de testes, desta forma assegurando o sistemas e evitando o mal funcionamento das operações de pagamento e reserva.
+
+Controle de escopo e gerenciamento de alterações: nessa etapa a empresa pode optar por feedbacks, por exemplo na questão de mudanças significativas no escopo, por exemplo, pedir para solicitar ou dar ideias de mudanças. Desta forma melhorando a criação do projeto para atender de melhor forma os clientes. É importante observar as modificações, como elas irão impactar em todo o sistema, se irá ser algo simples em questão de custo e tempo, ou algo mais demorado.
+
+Verificar entregas e aceitações: Crie etapas de testes para verificar cada funcionalidade do hotel, desta forma irá observar se todas as funções estão funcionando corretamente e se as solicitações dos clientes estão tendo retorno de forma efetiva. Para aceitações você pode utilizar ferramentas de feedbacks  onde os usuários irão dar notas e avaliarem o hotel, desta forma o hotel entra com providências para corrigir o determinado erro e aplicar um tipo de inovação para chamar possíveis clientes que se afastaram devido a presença desses mesmo erros .
+
+3. Execução:
+Assegurar Conformidade com o Cronograma: Garantir que a equipe execute as atividades conforme o cronograma.
+
+
+Gerenciamento de Recursos: Gerenciar os recursos e garantir que eles estejam alocados de forma eficiente.
+
+
+Coordenação com Stakeholders: Coordenar com os stakeholders e fornecer atualizações regulares.
+
+
+Gestão da Qualidade: Gerenciar a qualidade das entregas.
+
+
+Resolução de Problemas: Resolver problemas e eliminar impedimentos.
+
+4. Monitoramento e controle
+
+Acompanhar o desenvolvimento do projeto:
+ Observar o tempo que ele está sendo processado e se irá cumprir o prazo de entrega estabelecido; acompanhar o custo, desta forma monitorando se o projeto irá ultrapassar o teto de gastos estabelecidos, pois quanto menor o custo melhor para a empresa.
+
+Monitoramento e possíveis riscos:
+Observar ou prever riscos de pagamentos, verificar se as transações estão sendo feitas corretamente e sem qualquer tipo de erro, pois por ser online além de facilitar a transação podem haver alguns defeitos como uma falta de compatibilidade em algumas máquinas; para a implementação  você pode estabelecer etapas ou sessões de testes, desta forma assegurando o sistemas e evitando o mal funcionamento das operações de pagamento e reserva.
+
+Controle de escopo e gerenciamento de alterações: nessa etapa a empresa pode optar por feedbacks, por exemplo na questão de mudanças significativas no escopo, por exemplo, pedir para solicitar ou dar ideias de mudanças. Desta forma melhorando a criação do projeto para atender de melhor forma os clientes. É importante observar as modificações, como elas irão impactar em todo o sistema, se irá ser algo simples em questão de custo e tempo, ou algo mais demorado.
+
+Verificar entregas e aceitações: Crie etapas de testes para verificar cada funcionalidade do hotel, desta forma irá observar se todas as funções estão funcionando corretamente e se as solicitações dos clientes estão tendo retorno de forma efetiva. Para aceitações você pode utilizar ferramentas de feedbacks  onde os usuários irão dar notas e avaliarem o hotel, desta forma o hotel entra com providências para corrigir o determinado erro e aplicar um tipo de inovação para chamar possíveis clientes que se afastaram devido a presença desses mesmo erros .
+
+5. Encerramento
+
+Garantir que todos os entregáveis foram aceitos: Conversar com o cliente (o hotel) para garantir que todas as funcionalidades do sistema de reserva eletrônica estão em conformidade com as especificações e que a entrega está, portanto, em linha com as expectativas.
+
+Formalizar a entrega do projeto ao cliente ou à operação: Documentar a clarificação do sistema, incluindo a provisão de documentos técnicos e a aplicação do conhecimento do hotel sobre a capacidade da operação de lidar com o sistema de forma eficaz.
+
+Fechar contratos com fornecedores: Finalizar todos os acordos com fornecedores, como prestadores de serviços de remuneração e desenvolvedores terceirizados, e cuidar para que não haja pagamentos ou entregas pendentes.
+
+Realizar uma avaliação pós-projeto (lições aprendidas): Conduzir uma reunião retrospectiva com a equipe para estabelecer os sucessos realizados, os desafios enfrentados e as áreas para grande melhoria em futuras iniciativas.
+
+Encerrar o projeto e liberar os recursos: Encerrar oficialmente todo o Projeto e liberar a equipe e os recursos que foram atribuídos, armazenando toda a documentação relevante para uso futuro.
